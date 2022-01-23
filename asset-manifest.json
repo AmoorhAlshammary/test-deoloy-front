@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-deoloy-front/static/css/main.32248ef8.chunk.css",
+    "main.js": "/test-deoloy-front/static/js/main.72be1a91.chunk.js",
+    "main.js.map": "/test-deoloy-front/static/js/main.72be1a91.chunk.js.map",
+    "runtime-main.js": "/test-deoloy-front/static/js/runtime-main.8878f990.js",
+    "runtime-main.js.map": "/test-deoloy-front/static/js/runtime-main.8878f990.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/test-deoloy-front/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.9ee4d380.chunk.js": "/test-deoloy-front/static/js/2.9ee4d380.chunk.js",
+    "static/js/2.9ee4d380.chunk.js.map": "/test-deoloy-front/static/js/2.9ee4d380.chunk.js.map",
+    "index.html": "/test-deoloy-front/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/test-deoloy-front/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.32248ef8.chunk.css.map": "/test-deoloy-front/static/css/main.32248ef8.chunk.css.map",
+    "static/js/2.9ee4d380.chunk.js.LICENSE.txt": "/test-deoloy-front/static/js/2.9ee4d380.chunk.js.LICENSE.txt",
+    "static/media/background_video.d06fc05e.mp4": "/test-deoloy-front/static/media/background_video.d06fc05e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8878f990.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.9ee4d380.chunk.js",
+    "static/css/main.32248ef8.chunk.css",
+    "static/js/main.72be1a91.chunk.js"
+  ]
+}
