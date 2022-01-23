@@ -1,0 +1,58 @@
+#containersign{
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    display: inline-block;
+    padding: 12px 16px; 
+    width: 30%;
+    padding: 12 px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 40%;
+  position: relative;
+  border: 1px ;
+  background-color: black;
+  justify-content: center;
+  margin-top: auto;
+} 
+#containersign input{
+    width: 150px;
+}
+#containersi{
+    color: darkslategrey;
+    font-family: fantasy;
+    font-size: xx-large;
+    width: 20;
+    display: inline;
+    
+}
+#containersig{
+    color: darkslategrey;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: oblique;
+    width: 20;
+    display: inline;
+    border: cadetblue;
+}
+#containersig123{
+    color: darkslategrey;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: oblique;
+    width: 20;
+    display: inline;
+    border: cadetblue;
+}
+#containersig12{
+    background-color: grey;
+    color:black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.8;
+    font-family: fantasy;
+} 
