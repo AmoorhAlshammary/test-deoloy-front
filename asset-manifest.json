@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-deoloy-front/static/css/main.32248ef8.chunk.css",
-    "main.js": "/test-deoloy-front/static/js/main.72be1a91.chunk.js",
-    "main.js.map": "/test-deoloy-front/static/js/main.72be1a91.chunk.js.map",
+    "main.js": "/test-deoloy-front/static/js/main.4cf76b0a.chunk.js",
+    "main.js.map": "/test-deoloy-front/static/js/main.4cf76b0a.chunk.js.map",
     "runtime-main.js": "/test-deoloy-front/static/js/runtime-main.8878f990.js",
     "runtime-main.js.map": "/test-deoloy-front/static/js/runtime-main.8878f990.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/test-deoloy-front/static/css/2.8c0e6b67.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.9ee4d380.chunk.js",
     "static/css/main.32248ef8.chunk.css",
-    "static/js/main.72be1a91.chunk.js"
+    "static/js/main.4cf76b0a.chunk.js"
   ]
 }
