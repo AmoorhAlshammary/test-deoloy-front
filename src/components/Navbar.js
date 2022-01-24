@@ -16,6 +16,8 @@ export default function Navbar({setUser, setToken, token, user}) {
       {console.log(user,"user")}
   
         <Link className="navbar-brand" to="/">Amirah Decoration</Link>
+        <Link className="navbar-brand" to="/Signup">Signup</Link>
+        <Link className="nav-link" to="/login">Login</Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -31,8 +33,8 @@ export default function Navbar({setUser, setToken, token, user}) {
               <button className="btn btn-light" onClick={logout}>Logout</button>
               :
               <>
-                <Link className="nav-link" to="/signup">Signup</Link>
-                <Link className="nav-link" to="/login">Login</Link>
+                {/* <Link className="nav-link" to="/signup">Signup</Link> */}
+                {/* <Link className="nav-link" to="/login">Login</Link> */}
 
  
       
